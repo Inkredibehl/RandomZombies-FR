@@ -1,0 +1,30 @@
+Sandbox_FR = {
+  Sandbox_BLTRandomZombies = "Random Zombies",
+
+  Sandbox_BLTRandomZombies_Crawler = "Crawler% (vitesse)",
+  Sandbox_BLTRandomZombies_Crawler_tooltip = "Pourcentage de Crawlers présents dans le monde. Crawler%, Shambler%, FastShambler% et Sprinter% doivent totaliser 100.",
+
+  Sandbox_BLTRandomZombies_Shambler = "Shambler% (vitesse)",
+  Sandbox_BLTRandomZombies_Shambler_tooltip = "Pourcentage de Shamblers présents dans le monde. Crawler%, Shambler%, FastShambler% et Sprinter% doivent totaliser 100.",
+
+  Sandbox_BLTRandomZombies_FastShambler = "FastShambler% (vitesse)",
+  Sandbox_BLTRandomZombies_FastShambler_tooltip = "Pourcentage de Fast Shamblers présents dans le monde. Crawler%, Shambler%, FastShambler% et Sprinter% doivent totaliser 100.",
+  
+  Sandbox_BLTRandomZombies_Sprinter = "Sprinter% (vitesse)",
+  Sandbox_BLTRandomZombies_Sprinter_tooltip = "Pourcentage de Sprinters présents dans le monde. Crawler%, Shambler%, FastShambler% et Sprinter% doivent totaliser 100.",
+
+  Sandbox_BLTRandomZombies_Fragile = "Fragile% (santé)",
+  Sandbox_BLTRandomZombies_Fragile_tooltip = "Pourcentage de zombies Fragiles présents dans le monde. Fragile%, Normal% et Tough% doivent totaliser 100.",
+
+  Sandbox_BLTRandomZombies_NormalTough = "Normal% (santé)",
+  Sandbox_BLTRandomZombies_NormalTough_tooltip = "Pourcentage de zombies avec une robustesse normale présents dans le monde. Fragile%, Normal% et Tough% doivent totaliser 100.",
+
+  Sandbox_BLTRandomZombies_Tough = "Tough% (santé)",
+  Sandbox_BLTRandomZombies_Tough_tooltip = "Pourcentage de zombies Tough présents dans le monde. Fragile%, Normal% et Tough% doivent totaliser 100.",
+
+  Sandbox_BLTRandomZombies_Smart = "Smart% (cerveaux)",
+  Sandbox_BLTRandomZombies_Smart_tooltip = "Pourcentage de zombies Smart présents dans le monde. Ces zombies peuvent ouvrir des portes et plus encore.",
+
+  Sandbox_BLTRandomZombies_Frequency = "[AVANCÉ] Fréquence",
+  Sandbox_BLTRandomZombies_Frequency_tooltip = "[OPTION AVANCÉE] L'intervalle en millisecondes entre deux mises à jour. Un nombre plus élevé signifie moins d'utilisation CPU, un nombre plus bas signifie moins de problèmes de précision.",
+}
